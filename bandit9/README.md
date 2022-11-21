@@ -12,3 +12,9 @@ strings data.txt | grep -E "=+"
 ```
 
 The grep -E command is used for regular expressions, and the strings command is used for printing the strings of printable characters in a file.
+
+We can also use this command below to get the password.
+
+```
+strings data.txt | sort | uniq -c | grep -w 1
+```
