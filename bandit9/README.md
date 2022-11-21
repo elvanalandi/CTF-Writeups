@@ -16,5 +16,5 @@ The grep -E command is used for regular expressions, and the strings command is 
 We can also use this command below to get the password.
 
 ```
-strings data.txt | sort | uniq -c | grep -w 1
+strings data.txt | grep -w [\=\=]
 ```
