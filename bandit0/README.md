@@ -5,5 +5,13 @@
 ```
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-Then, input the given password
+Then, input the given password.
+
+Get the level 1 password in the home directory by using cat command.
+
+```
+cat ./~
+```
+
+The flag will be shown to us, which is the password itself.
 
