@@ -34,7 +34,7 @@ Then click the commit text beside the **nothing_here_to_look_at** folder. By rea
 I used [CyberChef](https://gchq.github.io/CyberChef/) to decode the text. The encoded text uses base64. The decoded text is an Instagram link that can be used to get another clue.  
 Searching again through his Instagram account, we will find the partial flag. To get the rest of the flag, there is a clue on the first post. The comment that has been posted by Jason shows the next step. 
 
-![Partial flag](first_flag.jpg)
+![Partial flag](partial_flag.jpg)
 
 ![Clue](clue.jpg)  
 
