@@ -25,23 +25,22 @@ Then, I used ls -al command to search the hidden folder and file. It shows me th
 In this state, we need to find out what pages Jason deleted. Every change in Github pages is recorded under the contribution activity in the root folder.
 The root folder can be accessed [here](https://github.com/cryptic-tod-secure?tab=overview&from=2022-12-01&to=2022-12-31) , you can manually backtrack the folder and see the contribution activity in 2022.
 
-![alt text](http://url/to/img.png)
+![Committed files](commit.jpg)
 
 Then click the commit text beside the **nothing_here_to_look_at** folder. By reading the update of empty.txt, we get the encoded text (`aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90b2RkX2phc29uX3NlY3VyZS8=`) that has been deleted previously.
 
-![alt text](http://url/to/img.png)
+![Update of empty.txt file](empty.jpg)
 
-I used [CyberChef](https://gchq.github.io/CyberChef/) to decode the text. The encoded text uses base64. The decoded text is an Instagram link that can be used to get another clue. 
-
-![alt text](http://url/to/img.png)  
-
+I used [CyberChef](https://gchq.github.io/CyberChef/) to decode the text. The encoded text uses base64. The decoded text is an Instagram link that can be used to get another clue.  
 Searching again through his Instagram account, we will find the partial flag. To get the rest of the flag, there is a clue on the first post. The comment that has been posted by Jason shows the next step. 
 
-![alt text](http://url/to/img.png)  
+![Partial flag](first_flag.jpg)
+
+![Clue](clue.jpg)  
 
 We need to go to Jason's Twitter account. Hence, I tried to use the same username on Twitter, and I found his account.
 
-![alt text](http://url/to/img.png) 
+![Twitter page](twitter.jpg) 
 
 There are two posts with encoded text. The first encoded text can be decoded using base64. But It is a rabbit hole.
 Then, it must be the second post that has the flag. I did guess the encoded text, and I found out that it is base32 encoded text.
