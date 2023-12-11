@@ -14,8 +14,12 @@
 </ul>
 <ul>
   <li>PicoCTF</li>
-  <strong>OSINT</strong>
+  <strong>General Skills</strong>
   <ol type="1">
-    <li><a href="deconstructf/deconstructf2023/missing" target="_blank">Missing</a></li>
+    <li><a href="picoCTF/picoCTF2021/General/Obedient%20Cat" target="_blank">Obedient Cat</a></li>
+  </ol>
+  <strong>Cryptography</strong>
+  <ol type="1">
+    <li><a href="picoCTF/picoCTF2021/Cryptography/Mod26" target="_blank">Mod 26</a></li>
   </ol>
 </ul>
