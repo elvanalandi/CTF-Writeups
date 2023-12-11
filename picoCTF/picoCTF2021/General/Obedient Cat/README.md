@@ -15,4 +15,5 @@
 We can download the flag file through the link labeled Download flag, or alternatively, we can use the terminal command `wget https://mercury.picoctf.net/static/0e428b2db9788d31189329bed089ce98/flag` in the Terminal prompt. Once the file is downloaded, we can view its contents using the Linux `cat` command.
 
 The contents of the file represent the flag for this challenge.
-![Flag](flag.png)
+
+![Flag](https://github.com/elvanalandi/CTFs/blob/main/picoCTF/picoCTF2021/General/Obedient%20Cat/flag.PNG)
