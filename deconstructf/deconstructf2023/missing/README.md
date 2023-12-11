@@ -46,4 +46,4 @@ There are two posts with encoded text. The first encoded text can be decoded usi
 Then, it must be the second post that has the flag. I did guess the encoded text, and I found out that it is base32 encoded text.
 Finally, the rest of the flag was obtainned.
 
-### The flag is dsc{h4vINg_FuN_w17h_O5INT_@Nd_m4p5}
+<details><summary> Flag </summary> dsc{h4vINg_FuN_w17h_O5INT_@Nd_m4p5} </details>
