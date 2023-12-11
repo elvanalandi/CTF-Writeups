@@ -3,9 +3,9 @@
 `We want to update our website but we are unable to because the developer who coded this left today. Can you take a look?`   
 **Author:** felamos  
 **Flag Format:** picoCTF{FLAG}   
-**Challenge Type:** Misc
-**Difficulty:** Easy
-**Point:** 10 points
+**Challenge Type:** Misc  
+**Difficulty:** Easy  
+**Point:** 10 points  
 
 ### Walkthrough
 I received a zip file that was provided for the challenge. Therefore, I need to unzip the file first. I used the Linux `unzip` command to accomplish this task.
