@@ -26,6 +26,11 @@
   <ol type="1">
     <li><a href="picoCTF/picoCTF2021/Cryptography/Mod26" target="_blank">Mod 26</a></li>
   </ol>
+  </br>
+  <strong>Forensics</strong>
+  <ol type="1">
+    <li><a href="picoCTF/picoCTF2021/Forensics/information" target="_blank">Information</a></li>
+  </ol>
 </ul>
 
 
