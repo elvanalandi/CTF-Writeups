@@ -16,7 +16,7 @@ After we unzipped the file, we recognised that the files inside the zip file are
 
 ![Login page](images/login.png)
 
-My initial thought upon encountering a login page was that I needed to test the website by guessing the username and password using common credentials. After trying a few sets of credentials, a prompt appeared, it said `login successful`. The login was successful when I used the username `admin` and the password `admin`.
+My initial thought upon encountering a login page was that I needed to test the website by guessing the username and password using common credentials. After trying a few sets of credentials, a prompt appeared, it said `Login successfully`. The login was successful when I used the username `admin` and the password `admin`.
 
 ![Login success](images/login-success.png)
 
@@ -38,7 +38,7 @@ After that, I found an interesting variable.
 
 ![res](images/res.png)
 
-It appears that the values of the variable are in ASCII format. To reveal the actual flag, I just need to convert the ASCII format to text. I also used the [dcode](https://www.dcode.fr/ascii-code) website to perform the ASCII to text conversion.
+It appears that the values of the variable are in ASCII format. To reveal the actual flag, I just need to convert the ASCII format to text. I also used the [dCode](https://www.dcode.fr/ascii-code) website to perform the ASCII to text conversion.
 
 Finally, we obtained the flag.
 
