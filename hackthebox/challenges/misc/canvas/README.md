@@ -30,7 +30,7 @@ Then, I decided to search through the files that had been downloaded earlier. I 
 
 ![Javascript file](images/js-file.png)
 
-Since it is a JavaScript file, my initial thought was that it might be a basic `JS Obfuscation`.
+Since it is a JavaScript file, my initial thought was that it might be a basic **JS Obfuscation**.
 
 So, I tried to deobfuscate it using an online tool from [dCode](https://www.dcode.fr/javascript-unobfuscator) website.
 
