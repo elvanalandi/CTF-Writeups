@@ -3,7 +3,7 @@
 `This file has a flag in plain sight (aka "in-the-clear").`   
 **Author:** SYREAL  
 **Flag Format:** picoCTF{FLAG}   
-**Challenge Type:** General Skills
+**Challenge Type:** General Skills  
 **Point:** 5 points
 
 ### Hints
