@@ -2,7 +2,7 @@
 ### Description
 `We want to update our website but we are unable to because the developer who coded this left today. Can you take a look?`   
 **Author:** felamos  
-**Flag Format:** picoCTF{FLAG}   
+**Flag Format:** HTB{FLAG}   
 **Challenge Type:** Misc  
 **Difficulty:** Easy  
 **Point:** 10 points  
