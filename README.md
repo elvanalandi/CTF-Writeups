@@ -39,3 +39,8 @@
       </ol>
     </ul>
 </details>
+<details><summary>Sherlocks</summary>
+      <ol type="1">
+        <li><a href="hackthebox/sherlock/meerkat" target="_blank">Meerkat</a></li>
+      </ol>
+</details>
