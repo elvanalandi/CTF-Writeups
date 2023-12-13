@@ -34,7 +34,7 @@ Considering the different usernames and passwords the attacker used, and observi
 >Question: **We believe the attacker may have used a subset of the brute forcing attack category - what is the name of the attack carried out?**   
 <details><summary>Answer: </summary>Credential Stuffing</details>
 
-On the next task, we need to investigate the CVE number associated with the attack. Since the JSON file we received contains security events information, we can read the JSON file in the hope of finding the identified CVE number. I used JSON pretty print to comfortably read the file.  
+On the next task, we need to investigate the CVE number associated with the attack. Since the JSON file we received contains security events information, we can read the JSON file in the hope of finding the identified CVE number. I used [JSON pretty print](https://jsonformatter.org/json-pretty-print) to comfortably read the file.  
 
 ![JSON](images/json.png)
 
@@ -58,7 +58,7 @@ Following that, we can manually count the unique credentials based on the output
 >Question: **How many combinations of usernames and passwords were used in the credential stuffing attack?**   
 <details><summary>Answer: </summary>56</details>
 
-Then, I followed the HTTP stream of the last POST request to identify which credential successfully logged in.
+Then, I followed the HTTP stream of the last POST request to identify which credential successfully logged in. The **204** response code indicates that the login was successful.
 
 ![Success](images/success.png)
 
