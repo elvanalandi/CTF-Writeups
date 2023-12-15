@@ -1,46 +1,102 @@
 ### CTF Writeups
 
 <h4>Over The Wire</h4>
-<ol type="1">
-  <li><a href="banditoverthewire" target="_blank">Bandit</a></li>
-</ol>
+<table>
+    <thead>
+        <tr>
+            <th>Challenge</th>
+            <th>Completed Challenges</th>
+        </tr>
+    </thead>
+    <tbody>
+        <td><a href="https://github.com/elvanalandi/CTFs/tree/main/banditoverthewire">Bandit</a></td>
+        <td>17</td>
+    </tbody>
+</table>
 
-<h4>DeconstruCTF2023</h4>
-<details><summary>OSINT</summary>
-  <ol type="1">
-    <li><a href="deconstructf/deconstructf2023/missing" target="_blank">Missing</a></li>
-  </ol>
-</details>
+<h4>DeconstruCTF</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Original Events</th>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+            <td>DeconstruCTF 2023</td>
+            <td>OSINT</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/blob/main/deconstructf/deconstructf2023/missing">Missing</a></td>
+            <td>SYREAL</td>
+        </tr>
+    </tbody>
+</table>
 
 <h4>PicoCTF</h4>
-<details><summary>General Skills</summary>
-  <ol type="1">
-    <li><a href="picoCTF/picoCTF2021/General/Obedient%20Cat" target="_blank">Obedient Cat</a></li>
-  </ol>
-</details>
-<details><summary>Cryptography</summary>
-  <ol type="1">
-    <li><a href="picoCTF/picoCTF2021/Cryptography/Mod26" target="_blank">Mod 26</a></li>
-  </ol>
-</details>
-<details><summary>Forensics</summary>
-  <ol type="1">
-    <li><a href="picoCTF/picoCTF2021/Forensics/information" target="_blank">Information</a></li>
-  </ol>
-</details>
-
+<table>
+    <thead>
+        <tr>
+            <th>Original Events</th>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5>picoCTF 2021</td>
+            <td rowspan=3>General Skills</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/General/Obedient%20Cat">Obedient Cat</a></td>
+            <td>SYREAL</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/General/Python%20Wrangling">Python Wrangling</a></td>
+            <td>SYREAL</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/General/Nice%20Netcat">Nice Netcat</a></td>
+            <td>SYREAL</td>
+        </tr>
+        <tr>
+            <td>Cryptography</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/blob/main/picoCTF/picoCTF2021/Cryptography/Mod26">Mod 26</a></td>
+            <td>PANDU</td>
+        </tr>
+        <tr>
+            <td>Forensics</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/Forensics/information">Information</a></td>
+            <td>SUSIE</td>
+        </tr>
+    </tbody>
+</table>
 
 <h4>HackTheBox</h4>
-<details><summary>Challenges</summary>
-    <ul>
-      <li type="square">Misc</li>
-      <ol type="1">
-        <li><a href="hackthebox/challenges/misc/canvas" target="_blank">Canvas</a></li>
-      </ol>
-    </ul>
-</details>
-<details><summary>Sherlocks</summary>
-      <ol type="1">
-        <li><a href="hackthebox/sherlock/meerkat" target="_blank">Meerkat</a></li>
-      </ol>
-</details>
+<table>
+    <thead>
+        <tr>
+            <th>CTF Types</th>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Difficulty</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Challenges</td>
+            <td>Misc</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/hackthebox/challenges/misc/canvas">Canvas</a></td>
+            <td>Easy</td>
+            <td>felamos</td>
+        </tr>
+        <tr>
+            <td>Sherlocks</td>
+            <td></td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/hackthebox/sherlock/meerkat">Meerkat</a></td>
+            <td>Easy</td>
+            <td>sebh24</td>
+        </tr>
+    </tbody>
+</table>
