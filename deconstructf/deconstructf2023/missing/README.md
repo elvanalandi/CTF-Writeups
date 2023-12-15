@@ -1,10 +1,10 @@
 ## DeconstruCTF 2023 - Missing
 ### Description
-**Jason todd went missing and all alfred was able to recover from his pc was this file
-Help Alfred find Jason   
-Author: Rakhul   
-Flag Format: dsc{[a-zA-Z0-9_]+}   
-Challenge Type: OSINT challenge**
+`Jason todd went missing and all alfred was able to recover from his pc was this file`  
+`Help Alfred find Jason`   
+**Author:** Rakhul   
+**Flag Format:** dsc{[a-zA-Z0-9_]+}   
+**Challenge Type:** OSINT challenge
 
 ### Walkthrough
 There is an attachment to the file that Alfred has recovered, namely **jason.rar**. The file is compressed using the rar extension format. 
