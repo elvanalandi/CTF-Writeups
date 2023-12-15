@@ -29,7 +29,7 @@
             <td>DeconstruCTF 2023</td>
             <td>OSINT</td>
             <td><a href="https://github.com/elvanalandi/CTFs/blob/main/deconstructf/deconstructf2023/missing">Missing</a></td>
-            <td>SYREAL</td>
+            <td>Rakhul</td>
         </tr>
     </tbody>
 </table>
