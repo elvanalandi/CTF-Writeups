@@ -98,5 +98,12 @@
             <td>Easy</td>
             <td>sebh24</td>
         </tr>
+        <tr>
+            <td>Seasonal</td>
+            <td></td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/hackthebox/seasonal/devvortex">Devvortex</a></td>
+            <td>Easy</td>
+            <td>7u9y</td>
+        </tr>
     </tbody>
 </table>
