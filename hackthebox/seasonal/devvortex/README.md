@@ -1,7 +1,7 @@
 ## Devvortex
 ### Description
 **Author:** 7u9y     
-**Difficulty:** Easy
+**Difficulty:** Easy  
 **Machine IP Address:** 10.10.11.242
 
 ### Walkthrough
