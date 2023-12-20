@@ -46,7 +46,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5>picoCTF 2021</td>
+            <td rowspan=6>picoCTF 2021</td>
             <td rowspan=3>General Skills</td>
             <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/General/Obedient%20Cat">Obedient Cat</a></td>
             <td>SYREAL</td>
@@ -65,9 +65,13 @@
             <td>PANDU</td>
         </tr>
         <tr>
-            <td>Forensics</td>
+            <td rowspan=2>Forensics</td>
             <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/Forensics/information">Information</a></td>
             <td>SUSIE</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/Forensics/Matryoshka%20Doll">Matryoshka Doll</a></td>
+            <td>SUSIE/PANDU</td>
         </tr>
     </tbody>
 </table>
