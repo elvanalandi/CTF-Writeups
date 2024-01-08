@@ -73,6 +73,11 @@
             <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2021/Forensics/Matryoshka%20Doll">Matryoshka Doll</a></td>
             <td>SUSIE/PANDU</td>
         </tr>
+        <tr>
+            <td>picoCTF 2023</td>
+            <td>Forensics</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/picoCTF/picoCTF2023/Forensics/hideme">Hideme</a></td>
+            <td>GEOFFREY NJOGU</td>
     </tbody>
 </table>
 
