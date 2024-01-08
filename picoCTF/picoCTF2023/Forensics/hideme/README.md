@@ -12,7 +12,7 @@
 ### Walkthrough
 After the file was downloaded, I examined it and noticed that it was an image. Upon further investigation, it appeared to be a normal image.
 
-![picoCTF][images/picoCTF.png]
+![picoCTF](images/picoCTF.png)  
 
 The image needed to be analyzed more thoroughly using a tool named **binwalk**. The result revealed that the image contained a hidden folder, hidden using the zip method.  
 
