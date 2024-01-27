@@ -9,7 +9,7 @@ We will receive a zip file named **Noted.zip**. Upon unzipping the file, I found
 
 The first question is about how the user operates AWS, so it makes sense to check the configuration file, which is **config.xml**. in this case. By looking through this file, I found the full path of the script used for AWS operations.  
 
-![AWS](images/AWS.png)
+![AWS](images/aws.png)
 
 **Task 1**  
 >Question: **What is the full path of the script used by Simon for AWS operations?**   
