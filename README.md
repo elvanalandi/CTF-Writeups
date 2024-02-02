@@ -102,13 +102,13 @@
         </tr>
         <tr>
             <td rowspan=2>Sherlocks</td>
-            <td></td>
+            <td>SOC</td>
             <td><a href="https://github.com/elvanalandi/CTFs/tree/main/hackthebox/sherlock/meerkat">Meerkat</a></td>
             <td>Easy</td>
             <td>sebh24</td>
         </tr>
         <tr>
-            <td></td>
+            <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/CTFs/tree/main/hackthebox/sherlock/noted">Noted</a></td>
             <td>Easy</td>
             <td>CyberJunkie</td>
