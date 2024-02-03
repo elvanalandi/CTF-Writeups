@@ -1,8 +1,6 @@
 ## GrabThePhisher
 ### Description
-`An attacker compromised a server and impersonated https://pancakeswap.finance/, a decentralized exchange native to BNB Chain, to host a phishing kit at https://apankewk.soup.xyz/mainpage.php. The attacker set it as an open directory with the file name "pankewk.zip". 
-
-Provided the phishing kit, you as a soc analyst are requested to analyze it and do your threat intel homework.`   
+`An attacker compromised a server and impersonated https://pancakeswap.finance/, a decentralized exchange native to BNB Chain, to host a phishing kit at https://apankewk.soup.xyz/mainpage.php. The attacker set it as an open directory with the file name "pankewk.zip". Provided the phishing kit, you as a soc analyst are requested to analyze it and do your threat intel homework.`   
 **Author:** Milann SHRESTHA     
 **Difficulty:** Easy  
 
