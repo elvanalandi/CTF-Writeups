@@ -1,4 +1,4 @@
-## GrabThePhisher
+## [GrabThePhisher](https://cyberdefenders.org/blueteam-ctf-challenges/95/)
 ### Description
 `An attacker compromised a server and impersonated https://pancakeswap.finance/, a decentralized exchange native to BNB Chain, to host a phishing kit at https://apankewk.soup.xyz/mainpage.php. The attacker set it as an open directory with the file name "pankewk.zip". Provided the phishing kit, you as a soc analyst are requested to analyze it and do your threat intel homework.`   
 **Author:** Milann SHRESTHA     
@@ -6,7 +6,7 @@
 
 ### Walkthrough
 To initiate the lab, we must unzip the file named "c75-GrabThePhisher.zip," which has been provided, using the password: **cyberdefenders.org**.  
-Initially, I explored the **index.html** file and identified various wallet options. Notably, only one wallet's name matched the folder within the uncompressed directory, named **Metamask**.  
+Initially, I explored the **index.html** file and identified various wallet options. Notably, only one wallet's name matched the folder within the uncompressed directory.  
 
 ![Metamask Index](images/index.png)
 
