@@ -121,4 +121,24 @@
             <td>7u9y</td>
         </tr>
     </tbody>
+</table>  
+
+<h4>Cyber Defenders</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Difficulty</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Threat Intelligence</td>
+            <td><a href="https://github.com/elvanalandi/CTFs/tree/main/cyberdefenders/ThreatIntel/grabthephisher">GrabThePhisher</a></td>
+            <td>Easy</td>
+            <td><a href="https://cyberdefenders.org/profile/milannshrestga">Milann SHRESTHA</a></td>
+        </tr>
+    </tbody>
 </table>
