@@ -136,7 +136,7 @@
     <tbody>
         <tr>
             <td>Threat Intelligence</td>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/ThreatIntel/grabthephisher">GrabThePhisher</a></td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/grabthephisher">GrabThePhisher</a></td>
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/profile/milannshrestga">Milann SHRESTHA</a></td>
         </tr>
