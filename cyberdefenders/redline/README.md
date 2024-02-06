@@ -23,7 +23,7 @@ To identify the child process, the **windows.pstree** plugin. can be employed, a
 ![Child Process](images/child.png)  
 
 **Q3** : **What is the memory protection applied to the suspicious process memory region?**  
-You can locate memory protection using the **windows.malfind** plugin. This plugin is useful for uncovering hidden or injected code/DLLs in user mode memory.  
+You can locate memory protection using the **windows.malfind** plugin. This plugin is useful for uncovering hidden or injected code/DLLs in user mode memory. The answer is below the **Protection** column.  
 
 ![Memory Protection](images/protection.png)  
 
@@ -44,7 +44,7 @@ To answer this question, I did some online research. I used the [VirusTotal](htt
 
 ![Virus Total](images/virus-total.png)  
 
-I did not find much information about the malware on **VirusTotal**, but I came across a Google search result that caught my attention. The website is called **MalwareBazaar**. When I clicked on it, I found details about the malware family.  
+I did not find much information about the malware on **VirusTotal**, but I came across a Google search result that caught my attention. The website is called **MalwareBazaar**. When I clicked on it, I found details about the malware family. The malware family name inside the red box.  
 
 ![MalwareBazaar](images/malware-bazaar.png)
 
@@ -54,6 +54,6 @@ To discover the URL of the PHP file, I used the strings and grep commands. I inc
 ![URL](images/url.png)  
 
 **Q8** : **What is the full path of the malicious executable?**  
-I applied the same method as the previous question, but this time, I searched for the name of the malware executable.  
+I applied the same method as the previous question, but this time, I searched for the name of the malware executable. The path began with the C: drive.  
 
 ![Full Path](images/path.png)  
