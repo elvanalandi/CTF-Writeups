@@ -144,7 +144,7 @@
             <td>Endpoint Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/redline">RedLine</a></td>
             <td>Easy</td>
-            <td><a href="https://cyberdefenders.org/profile/milannshrestga">Ahmed Tammam</a></td>
+            <td><a href="https://cyberdefenders.org/p/T3M0">Ahmed Tammam</a></td>
         </tr>
     </tbody>
 </table>
