@@ -146,5 +146,11 @@
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/p/T3M0">Ahmed Tammam</a></td>
         </tr>
+        <tr>
+            <td>Threat Intelligence</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/lespion">L'espion</a></td>
+            <td>Easy</td>
+            <td><a href="https://twitter.com/BushidoToken">BushidoToken</a></td>
+        </tr>
     </tbody>
 </table>
