@@ -152,5 +152,11 @@
             <td>Easy</td>
             <td><a href="https://twitter.com/BushidoToken">BushidoToken</a></td>
         </tr>
+        <tr>
+            <td>Network Forensics</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/tomcattakeover">TomcatTakeover</a></td>
+            <td>Easy</td>
+            <td><a href="https://cyberdefenders.org/p/Chadou">Chadou</a></td>
+        </tr>
     </tbody>
 </table>
