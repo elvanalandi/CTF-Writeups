@@ -158,5 +158,11 @@
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/p/Chadou">Chadou</a></td>
         </tr>
+        <tr>
+            <td>Endpoint Forensics</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/nintendohunt">NintendoHunt</a></td>
+            <td>Difficult</td>
+            <td><a href="https://twitter.com/13CubedDFIR">13Cubed</a></td>
+        </tr>
     </tbody>
 </table>
