@@ -111,19 +111,19 @@
             <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/noted">Noted</a></td>
             <td>Easy</td>
-            <td>CyberJunkie</td>
+            <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
         <tr>
             <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/bft">BFT</a></td>
             <td>Very Easy</td>
-            <td>CyberJunkie</td>
+            <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
         <tr>
             <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/reaper">Reaper</a></td>
             <td>Very Easy</td>
-            <td>CyberJunkie</td>
+            <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
         <tr>
             <td>Seasonal</td>
