@@ -101,7 +101,7 @@
             <td>felamos</td>
         </tr>
         <tr>
-            <td rowspan=3>Sherlocks</td>
+            <td rowspan=4>Sherlocks</td>
             <td>SOC</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/meerkat">Meerkat</a></td>
             <td>Easy</td>
@@ -116,6 +116,12 @@
         <tr>
             <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/bft">BFT</a></td>
+            <td>Very Easy</td>
+            <td>CyberJunkie</td>
+        </tr>
+        <tr>
+            <td>DFIR</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/reaper">Reaper</a></td>
             <td>Very Easy</td>
             <td>CyberJunkie</td>
         </tr>
