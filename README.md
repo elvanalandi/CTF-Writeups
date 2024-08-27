@@ -171,6 +171,12 @@
             <td><a href="https://cyberdefenders.org/p/Chadou">Chadou</a></td>
         </tr>
         <tr>
+            <td>Threat Intelligence</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/3cx">3CX Supply Chain Blue Team Lab</a></td>
+            <td>Easy</td>
+            <td><a href="https://cyberdefenders.org">CyberDefenders</a></td>
+        </tr>
+        <tr>
             <td>Endpoint Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/nintendohunt">NintendoHunt</a></td>
             <td>Difficult</td>
