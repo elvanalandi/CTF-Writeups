@@ -121,7 +121,7 @@
         </tr>
         <tr>
             <td>DFIR</td>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/reaper">Reaper</a></td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/campfire-1">Campfire-1</a></td>
             <td>Very Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
