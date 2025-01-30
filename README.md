@@ -184,3 +184,25 @@
         </tr>
     </tbody>
 </table>
+
+<h4>Blue Team Labs Online</h4>
+<table>
+    <thead>
+        <tr>
+            <th>CTF Types</th>
+            <th>Category</th>
+            <th>Challenge</th>
+            <th>Difficulty</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Challenges</td>
+            <td>Digital Forensics</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/suspiciousUSBstick">Suspicious USB Stick</a></td>
+            <td>Medium</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+    </tbody>
+</table>
