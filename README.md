@@ -108,19 +108,17 @@
             <td>sebh24</td>
         </tr>
         <tr>
-            <td>DFIR</td>
+            <td rowspan=3>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/noted">Noted</a></td>
             <td>Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
         <tr>
-            <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/bft">BFT</a></td>
             <td>Very Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
         </tr>
         <tr>
-            <td>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/campfire-1">Campfire-1</a></td>
             <td>Very Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
@@ -147,40 +145,37 @@
     </thead>
     <tbody>
         <tr>
-            <td>Threat Intelligence</td>
+            <td rowspan=3>Threat Intelligence</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/grabthephisher">GrabThePhisher</a></td>
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/profile/milannshrestga">Milann SHRESTHA</a></td>
         </tr>
         <tr>
-            <td>Endpoint Forensics</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/lespion">L'espion</a></td>
+            <td>Easy</td>
+            <td><a href="https://twitter.com/BushidoToken">BushidoToken</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/3cx">3CX Supply Chain Blue Team Lab</a></td>
+            <td>Easy</td>
+            <td><a href="https://cyberdefenders.org">CyberDefenders</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>Endpoint Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/redline">RedLine</a></td>
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/p/T3M0">Ahmed Tammam</a></td>
         </tr>
         <tr>
-            <td>Threat Intelligence</td>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/lespion">L'espion</a></td>
-            <td>Easy</td>
-            <td><a href="https://twitter.com/BushidoToken">BushidoToken</a></td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/nintendohunt">NintendoHunt</a></td>
+            <td>Difficult</td>
+            <td><a href="https://twitter.com/13CubedDFIR">13Cubed</a></td>
         </tr>
         <tr>
             <td>Network Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/tomcattakeover">TomcatTakeover</a></td>
             <td>Easy</td>
             <td><a href="https://cyberdefenders.org/p/Chadou">Chadou</a></td>
-        </tr>
-        <tr>
-            <td>Threat Intelligence</td>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/3cx">3CX Supply Chain Blue Team Lab</a></td>
-            <td>Easy</td>
-            <td><a href="https://cyberdefenders.org">CyberDefenders</a></td>
-        </tr>
-        <tr>
-            <td>Endpoint Forensics</td>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/cyberdefenders/nintendohunt">NintendoHunt</a></td>
-            <td>Difficult</td>
-            <td><a href="https://twitter.com/13CubedDFIR">13Cubed</a></td>
         </tr>
     </tbody>
 </table>
