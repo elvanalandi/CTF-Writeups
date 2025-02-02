@@ -6,7 +6,7 @@
 **Difficulty:** Easy  
 
 ### Walkthrough
-This is a threat report study exercise challenge. We will review numerous threat cases from 2022. To answer all the questions, we need to identify the keywords in each question. The report is in PDF format, so a PDF reader must be installed. You can use the "Find" function (CTRL + F) to make it easier to navigate the report.  
+This is a threat report study exercise challenge. You'll receive a PDF file after unzipping the ZIP file, where you can review numerous threat cases from 2022. To answer all the questions, we need to identify the keywords in each question. The report is in PDF format, so a PDF reader must be installed. You can use the "Find" function (CTRL + F) to make it easier to navigate the report.  
 
 The clue for question 1 is `supply chain attak, Java logging library`.  
 
