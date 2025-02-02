@@ -193,10 +193,15 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2>Challenges</td>
-            <td>Digital Forensics</td>
+            <td rowspan=3>Challenges</td>
+            <td rowspan=2>Digital Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/suspiciousUSBstick">Suspicious USB Stick</a></td>
             <td>Medium</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/shibainsider">Shiba Insider</a></td>
+            <td>Easy</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
