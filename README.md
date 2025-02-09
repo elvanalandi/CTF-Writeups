@@ -211,7 +211,7 @@
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/thereport">Network Analysis - Web Shell</a></td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/networkanalysis-webshell">Network Analysis - Web Shell</a></td>
             <td>Easy</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
