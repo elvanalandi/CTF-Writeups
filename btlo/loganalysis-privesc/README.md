@@ -6,3 +6,22 @@
 **Difficulty:** Easy  
 
 ### Walkthrough
+**Question 1**  
+>**What user (other than ‘root’) is present on the server?**  
+<details><summary>Answer: </summary>daniel</details>
+
+**Question 2**  
+>**What script did the attacker try to download to the server?**  
+<details><summary>Answer: </summary>linux-exploit-suggester.sh</details>
+
+**Question 3**  
+>**What packet analyzer tool did the attacker try to use?**  
+<details><summary>Answer: </summary>tcpdump</details>
+
+**Question 4**  
+>**What file extension did the attacker use to bypass the file upload filter implemented by the developer?**  
+<details><summary>Answer: </summary>.phtml</details>
+
+**Question 5**  
+>**Based on the commands run by the attacker before removing the php shell, what misconfiguration was exploited in the ‘python’ binary to gain root-level access? 1- Reverse Shell ; 2- File Upload ; 3- File Write ; 4- SUID ; 5- Library load**  
+<details><summary>Answer: </summary>4</details>
