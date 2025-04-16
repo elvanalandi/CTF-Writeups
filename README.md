@@ -193,7 +193,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5>Challenges</td>
+            <td rowspan=6>Challenges</td>
             <td rowspan=2>Digital Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/suspiciousUSBstick">Suspicious USB Stick</a></td>
             <td>Medium</td>
@@ -218,6 +218,12 @@
         <tr>
             <td>Incident Response</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/secrets">Secrets</a></td>
+            <td>Easy</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+        <tr>
+            <td>CTF-Like</td>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/loganalysis-privesc">Log Analysis - Privilege Escalation</a></td>
             <td>Easy</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
