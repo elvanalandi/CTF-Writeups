@@ -8,6 +8,9 @@ Here is the ticket:`
 **Difficulty:** Easy  
 
 ### Walkthrough
+
+![Base64](images/base64.png)  
+
 **Question 1**  
 >**Can you identify the name of the token? (Format: String)**  
 <details><summary>Answer: </summary>JWT</details>
@@ -20,9 +23,13 @@ Here is the ticket:`
 >**What is the hint you found from this token? (Format: String)**  
 <details><summary>Answer: </summary>_4_Eyes</details>
 
+![Cracked JWT](images/cracked.png)  
+
 **Question 4**  
 >**What is the Secret? (Format: String)**  
 <details><summary>Answer: </summary>bT!0</details>
+
+![New Ticket](images/new-ticket.png)  
 
 **Question 5**  
 >**Can you generate a new verified signature ticket with a low privilege? (Format: String.String.String)**  
