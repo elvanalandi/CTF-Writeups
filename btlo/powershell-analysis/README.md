@@ -52,7 +52,7 @@ The URI for the next question is a very long obfuscated string. You could use th
 >**What is the domain name of the URI ending in ‘/6F2gd/’**  
 <details><summary>Answer: </summary>wm.mcdevelop.net</details>  
 
-The last question is the easiest one, in my opinion, as we just need to search the domain name from the previous question on Google to find the malware name associated with it.  
+The last question is the easiest one, in my opinion, as we just need to search the domain name from the previous question on Google to find the malware name associated with it. The name is one of the tags in the image below.  
 
 ![Malware Name](images/malware.png)  
 
