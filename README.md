@@ -205,6 +205,11 @@
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/spectrum">Spectrum</a></td>
+            <td>Easy</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+        <tr>
             <td rowspan=3>Security Operations</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/thereport">The Report</a></td>
             <td>Easy</td>
