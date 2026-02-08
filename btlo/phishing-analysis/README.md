@@ -51,10 +51,13 @@ Next, return to the email view. At the bottom of the email, you can see an attac
 Inspecting the contents of the attachment reveals a **suspicious URL** embedded within the email content.  
   
 ![Attachment Content](images/attachment.png)  
-  
+
+>[!NOTE]
+>The URL below has been defanged. Please re-fang the URL in your answer. You may use CyberChef to do this.  
+
 **Question 7**  
 >**What is the URL found inside the attachment?**  
-<details><summary>Answer: </summary>https://35000usdperwwekpodf.blogspot.sg?p=9swghttps://35000usdperwwekpodf.blogspot.co.il?o=0hnd</details>  
+<details><summary>Answer: </summary>hxxps://35000usdperwwekpodf[.]blogspot[.]sg?p=9swghxxps://35000usdperwwekpodf[.]blogspot[.]co[.]il?o=0hnd</details>  
   
 The hint for **Question 8** can be seen from the domain name in the URL. It points to a very popular free webpage hosting platform..  
   
