@@ -193,7 +193,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=9>Challenges</td>
+            <td rowspan=10>Challenges</td>
             <td rowspan=3>Digital Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/suspiciousUSBstick">Suspicious USB Stick</a></td>
             <td>Medium</td>
@@ -210,7 +210,7 @@
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
-            <td rowspan=3>Security Operations</td>
+            <td rowspan=4>Security Operations</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/thereport">The Report</a></td>
             <td>Easy</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
@@ -223,6 +223,11 @@
         <tr>
             <td><a href="https://github.com/elvanalandi/CTF-Writeups/tree/main/btlo/powershell-analysis">Malicious PowerShell Analysis</a></td>
             <td>Medium</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/CTF-Writeups/tree/main/btlo/phishing-analysis">Phishing Analysis</a></td>
+            <td>Easy</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
