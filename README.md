@@ -193,8 +193,8 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=10>Challenges</td>
-            <td rowspan=3>Digital Forensics</td>
+            <td rowspan=11>Challenges</td>
+            <td rowspan=4>Digital Forensics</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/suspiciousUSBstick">Suspicious USB Stick</a></td>
             <td>Medium</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
@@ -207,6 +207,11 @@
         <tr>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/spectrum">Spectrum</a></td>
             <td>Easy</td>
+            <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/btlo/memoryanalysis-ransomware">Memory Analysis - Ransomware</a></td>
+            <td>Medium</td>
             <td><a href="https://blueteamlabs.online/home/user/BTLO">BTLO</a></td>
         </tr>
         <tr>
