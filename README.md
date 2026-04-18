@@ -101,14 +101,14 @@
             <td>felamos</td>
         </tr>
         <tr>
-            <td rowspan=4>Sherlocks</td>
+            <td rowspan=5>Sherlocks</td>
             <td>SOC</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/meerkat">Meerkat</a></td>
             <td>Easy</td>
             <td>sebh24</td>
         </tr>
         <tr>
-            <td rowspan=3>DFIR</td>
+            <td rowspan=4>DFIR</td>
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/noted">Noted</a></td>
             <td>Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
@@ -122,6 +122,11 @@
             <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/campfire-1">Campfire-1</a></td>
             <td>Very Easy</td>
             <td><a href="https://app.hackthebox.com/users/468989">CyberJunkie</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/elvanalandi/Writeups/tree/main/hackthebox/sherlock/operationblackout2025-phantomcheck">Operation Blackout 2025: Phantom Check</a></td>
+            <td>Very Easy</td>
+            <td><a href="https://app.hackthebox.com/users/22341">violethat</a></td>
         </tr>
         <tr>
             <td>Seasonal</td>
